@@ -49,5 +49,5 @@ Annotations for each meeting is stored as a separate csv file, named as ```(meet
 - direction: ```POSITIVE``` if the annotator decided that the annotated line reinforces the psychological safety of the group, and ```NEGATIVE``` if she decided that the line harms the psychological safety of the group.
 - agree_cnt: The number of annotations that agrees on the ```direction```
 - reason: The reason why the annotator thought the line would affect the psychological safety of the group.
-- possible_comment: The comment of the annotator. It is written as if the annotator is giving feedback to the speaker of the utterance.
+- possible_comment: The comment of the annotator. It is written as if the annotator is explaining their reason of annotation to the speaker of the utterance.
 - created_at: The time when the annotation was submitted.
